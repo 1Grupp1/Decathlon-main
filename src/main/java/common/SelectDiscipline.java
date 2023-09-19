@@ -84,27 +84,27 @@ public class SelectDiscipline {
 				deca1500M.calculateResult(inputResult.enterResult());
 				break;
 			case 5:
-				System.out.println("You have selected Deca Long Jump, input your result in meters");
+				System.out.println("You have selected Deca Long Jump, input your result in centimeter");
 				decaLongJump.calculateResult(inputResult.enterResult());
 				break;
 			case 6:
-				System.out.println("You have selected Deca High Jump, input your result in meters");
+				System.out.println("You have selected Deca High Jump, input your result in centimeter");
 				highJump.calculateResult(inputResult.enterResult());
 				break;
 			case 7:
-				System.out.println("You have selected Deca Pole Vault, input your result in meters");
+				System.out.println("You have selected Deca Pole Vault, input your result in centimeter");
 				poleVault.calculateResult(inputResult.enterResult());
 				break;
 			case 8:
-				System.out.println("You have selected Deca Discus Throw, input your result in meters");
+				System.out.println("You have selected Deca Discus Throw, input your result in centimeter");
 				discusThrow.calculateResult(inputResult.enterResult());
 				break;
 			case 9:
-				System.out.println("You have selected Deca Javelin Throw, input your result in meters");
+				System.out.println("You have selected Deca Javelin Throw, input your result in centimeter");
 				decaJavelinThrow.calculateResult(inputResult.enterResult());
 				break;
 			case 10:
-				System.out.println("You have selected Deca Shot Put, input your result in meters");
+				System.out.println("You have selected Deca Shot Put, input your result in centimeter");
 				decaShotPut.calculateResult(inputResult.enterResult());
 				break;
 			case 11:
@@ -120,19 +120,19 @@ public class SelectDiscipline {
 				hep100MHurdles.calculateResult(inputResult.enterResult());
 				break;
 			case 14:
-				System.out.println("You have selected Hep High Jump, input your result in meters");
+				System.out.println("You have selected Hep High Jump, input your result in centimeter");
 				hepHighJump.calculateResult(inputResult.enterResult());
 				break;
 			case 15:
-				System.out.println("You have selected Hep Long Jump, input your result in meters");
+				System.out.println("You have selected Hep Long Jump, input your result in centimeter");
 				hepLongJump.calculateResult(inputResult.enterResult());
 				break;
 			case 16:
-				System.out.println("You have selected Hep Shot Put, input your result in meters");
+				System.out.println("You have selected Hep Shot Put, input your result in centimeter");
 				hepShotPut.calculateResult(inputResult.enterResult());
 				break;
 			case 17:
-				System.out.println("You have selected Hep Javelin Throw, input your result in meters");
+				System.out.println("You have selected Hep Javelin Throw, input your result in centimeter");
 				hepJavelinThrow.calculateResult(inputResult.enterResult());
 				break;
 			default:
